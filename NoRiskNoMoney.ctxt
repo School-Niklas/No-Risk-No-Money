@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NoRiskNoMoney
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ NoRiskNoMoney.\r\n\ \r\n\ @author\ (Niklas)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=
+comment1.target=NoRiskNoMoney()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ NoRiskNoMoney\r\n
+comment2.params=
+comment2.target=void\ neuesSpiel()
+comment3.params=
+comment3.target=void\ felderAusgeben()
+comment4.params=
+comment4.target=void\ w\u00FCrfeln()
+numComments=5
